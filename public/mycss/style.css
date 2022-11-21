@@ -1,0 +1,56 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.kartu {
+    width: 16rem;
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.btn-login {
+    background-color: #F34CD4;
+    color: #FFF;
+}
+
+.jumbotron {
+    overflow: hidden;
+    margin-top: 2rem;
+}
+
+.jumbotron h1 {
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+
+.jumbotron p {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color:#808080;
+}
+
+.hero {
+    margin-top: 150px;
+}
+
+.socialmedia {
+    color: black;
+    margin-right: 18px;
+}
+
+.jumbotron .btn {
+    padding: 10px 20px;
+    margin: 1rem 0;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.gambar {
+    margin-top: 12rem;
+}
+
+.circular--square {
+    border-radius: 50%;
+  }
